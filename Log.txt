@@ -1,0 +1,116 @@
+0, 1, y, Enter
+0, 1, y,Exit
+0, 3, y,Enter
+0, 2, w, Enter
+0, 1, g, Enter
+0, 1, g,Exit
+0, 4, g,Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 1, r, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 4, g, Exit
+0, 1, r, Exit
+0, 4, w, Enter
+0, 2, r, Enter
+0, 2, r, Exit
+0, 2, r, Enter
+0, 3, y, Exit
+0, 1, y, Enter
+0, 1, y, Exit
+0, 1, g, Enter
+0, 1, g,Exit
+0, 2, g,Enter
+0, 2, g,Exit
+0, 3, g,Enter
+0, 1, y, Enter
+0, 2, r, Exit
+0, 1, y, Exit
+0, 3, g,Exit
+0, 2, g,Enter
+0, 2, g,Exit
+0, 1, g,Enter
+0, 1, g, Exit
+0, 1, y, Enter
+0, 1, y,Exit
+0, 2, y,Enter
+0, 2, y,Exit
+0, 3, y,Enter
+0, 1, r, Enter
+0, 1, g, Enter
+0, 1, g,Exit
+0, 4, g,Enter
+0, 4, w, Exit
+0, 4, g,Exit
+0, 1, g,Enter
+0, 1, g, Exit
+0, 1, g, Enter
+0, 1, g,Exit
+0, 4, g,Enter
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 1, r, Exit
+0, 4, g,Exit
+0, 1, g,Enter
+0, 1, g, Exit
+0, 1, g, Enter
+0, 1, g, Exit
+0, 2, w, Exit
+0, 3, y, Exit
+0, 3, y, Enter
+0, 3, y,Exit
+0, 2, y,Enter
+0, 2, y, Exit
+0, 1, y, Enter
+0, 3, w, Enter
+0, 3, w, Exit
+0, 3, w, Enter
+0, 1, y, Exit
+0, 1, y, Enter
+0, 2, g, Enter
+0, 1, r, Enter
+0, 1, r,Exit
+0, 4, r,Enter
+0, 1, y, Exit
+0, 2, g, Exit
+0, 4, r, Exit
+0, 4, r, Enter
+0, 4, r,Exit
+0, 1, r,Enter
+0, 1, r, Exit
+0, 3, w, Exit
+0, 1, r, Enter
+0, 1, r, Exit
+0, 1, r, Enter
+0, 1, r, Exit
+0, 1, r, Enter
+0, 1, r, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 1, r, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 2, w, Exit
+0, 2, w, Enter
+0, 1, g, Enter
+0, 1, g,Exit
+0, 4, g,Enter
+0, 1, y, Enter
+0, 1, r, Exit
+0, 1, y,Exit
+0, 2, y,Enter
+0, 2, y,Exit
+0, 3, y,Enter
+0, 1, r, Enter
+0, 1, r, Exit
+0, 1, r, Enter
